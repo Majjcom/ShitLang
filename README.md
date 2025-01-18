@@ -29,3 +29,6 @@ cmake -DCMAKE_BUILD_TYPE=Release ..
 cmake --build . -t lua
 ```
 
+### 注意
+
+**windows上使用时请注意自己系统的默认编码，在中文环境下，请将shitlang代码文件以GBK格式保存，避免乱码**
