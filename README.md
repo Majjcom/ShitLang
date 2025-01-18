@@ -19,6 +19,18 @@ ShitLang基于[Lua](https://www.lua.org/)创建
 
 windows用户可以前往[release](https://github.com/Majjcom/ShitLang/releases/latest)页面下载体验
 
+#### 简单运行 (Windows)
+
+将下载的可执行文件放到目录下。
+
+在此目录下启动终端，运行`shitlang-win.exe xxxx.shit`即可。
+
+#### 编辑shit代码
+
+随便使用一个文件编辑器即可，比如windows上的记事本都可以。
+
+在Windows上创建新代码时，保存的时候记得使用GBK (ANSI)避免出现乱码。
+
 ### 构建
 
 使用cmake构建
