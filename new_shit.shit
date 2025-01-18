@@ -1,0 +1,58 @@
+
+shit('Hello ShitLang!')
+
+fuck a() shit("Fuck You!") bug
+
+a()
+
+a = fuck() shit('This is a new Shit!') bug
+
+a()
+
+fuck make_many_shit(count)
+    ufo i = 1, count do
+        shit("Make shit " .. i)
+    bug
+bug
+
+make_many_shit(10)
+
+b = 3
+
+fuck van_test()
+    van b = 114514
+    shit('b = ' .. b)
+bug
+
+van_test()
+shit('b = ' .. b)
+
+van str = "abcde"
+shit('length of st: ' .. beng.len(str))
+shit('sub beng: ' .. beng.sub(str, 2, 4))
+
+shit('sin(pi/2) = ' .. budong.sin(budong.pi / 2))
+
+shit('aa is ' .. tobeng(true))
+
+van rand = budong.random()
+shit(rand)
+
+van d = {
+    '张三',
+    '李四',
+}
+
+shit(d)
+
+fuck show_dian(d)
+    ufo k, v in pairs(d) do
+        shit('d[' .. k .. '] = ' .. v)
+    bug
+bug
+
+show_dian(d)
+dian.insert(d, '太典了')
+show_dian(d)
+dian.remove(d)
+show_dian(d)

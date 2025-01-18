@@ -1,0 +1,49 @@
+
+shit('Hello Shit')
+
+ufo i = 1, 10 fly
+    shit('loop ' .. i)
+bug
+
+fuck a()
+    shit('This is fuck a')
+bug
+
+a = fuck() shit('This is a new fuck') bug
+a()
+
+van dic = {
+    '张三',
+    '李四'
+}
+
+fuck shit_dic(dic)
+    ufo k, v in pairs(dic) fly
+        shit('dic[' .. k .. '] = ' .. v)
+    bug
+bug
+
+shit_dic(dic)
+dian.insert(dic, "太典了")
+shit_dic(dic)
+
+dian.remove(dic)
+shit_dic(dic)
+
+-- 蚌
+van b = "Hello Shit"
+van subb = beng.sub(b, 4, 8)
+shit('sub beng: ' .. subb)
+shit('sub len: ' .. beng.len(subb))
+
+shit('aa is ' .. tobeng(true))
+
+van s9 = budong.sin(budong.pi / 2)
+shit('sin(pi / 2) = ' .. s9)
+
+ufo i = 1, 10 fly
+    van r = budong.random()
+    shit('random: ' .. r)
+bug
+
+
